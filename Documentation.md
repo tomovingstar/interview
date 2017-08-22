@@ -8,6 +8,8 @@ ASP.NET
 
 Learn About ASP.NET MVC https://www.asp.net/mvc
 
+6 Tips for ASP.NET MVC Model Binding http://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
+
 Learn About ASP.NET Web API https://www.asp.net/web-api
 
 SQL Server
