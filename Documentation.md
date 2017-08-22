@@ -8,6 +8,8 @@ ASP.NET
 
 Learn About ASP.NET MVC https://www.asp.net/mvc
 
+Getting Started with ASP.NET MVC 5 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
+
 6 Tips for ASP.NET MVC Model Binding http://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
 
 Learn About ASP.NET Web API https://www.asp.net/web-api
@@ -51,3 +53,11 @@ Executing PowerShell scripts from C# https://blogs.msdn.microsoft.com/kebab/2014
 HTML- related
 
 Execute PowerShell from a ASP.NET Web Application http://jeffmurr.com/blog/?p=142
+
+PowerShell- related
+
+Execute PowerShell Script from C# MVC Web Application https://stackoverflow.com/questions/34313963/execute-powershell-script-from-c-sharp-mvc-web-application
+
+Scripting Visual Studio with PowerShell – great for demos https://blogs.msdn.microsoft.com/stuartleeks/2014/03/19/scripting-visual-studio-with-powershell-great-for-demos/
+
+Automate Visual Studio Team Services with PowerShell http://matthewmanela.com/blog/automate-visual-studio-team-services-with-powershell/
