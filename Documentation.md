@@ -10,9 +10,13 @@ Learn About ASP.NET MVC https://www.asp.net/mvc
 
 Getting Started with ASP.NET MVC 5 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 
+Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio (1 of 10) https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
+
 6 Tips for ASP.NET MVC Model Binding http://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
 
 Learn About ASP.NET Web API https://www.asp.net/web-api
+
+The largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm
 
 SQL Server
 
