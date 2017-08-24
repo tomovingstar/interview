@@ -22,6 +22,8 @@ ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php
 
 SQL Server
 
+SQL Documentation https://docs.microsoft.com/en-us/sql/
+
 Finding the Causes of Poor Performance in SQL Server, Part 1 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-1/
 
 Finding the causes of poor performance in SQL Server, Part 2 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-2/
