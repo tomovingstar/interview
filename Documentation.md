@@ -20,6 +20,8 @@ The largest Tutorials Library on the web https://www.tutorialspoint.com/index.ht
 
 ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php
 
+Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09
+
 SQL Server
 
 SQL Documentation https://docs.microsoft.com/en-us/sql/
