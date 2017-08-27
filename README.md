@@ -29,5 +29,9 @@ https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
 
 Other
 
+What is jQuery? https://jquery.com/
+
+jQuery Tutorial https://www.w3schools.com/jquery/
+
 How to change your IP address
 http://whatismyipaddress.com/change-ip
