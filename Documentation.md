@@ -112,3 +112,5 @@ Automating with Jenkins and PowerShell on Windows - Part 1 https://hodgkins.io/a
 Graphical front ends for PowerShell? Here's a couple for you https://www.theregister.co.uk/2013/07/15/powershell_third_party_guis/
 
 interference-security/empire-web https://github.com/interference-security/empire-web
+
+Runspace Samples https://msdn.microsoft.com/en-us/library/ee706576(v=vs.85).aspx
