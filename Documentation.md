@@ -114,3 +114,13 @@ Graphical front ends for PowerShell? Here's a couple for you https://www.theregi
 interference-security/empire-web https://github.com/interference-security/empire-web
 
 Runspace Samples https://msdn.microsoft.com/en-us/library/ee706576(v=vs.85).aspx
+
+Windows PowerShell https://msdn.microsoft.com/en-us/library/dd835506(v=vs.85).aspx
+
+Creating a Management OData Web Service https://msdn.microsoft.com/en-us/library/hh880865(v=vs.85).aspx
+
+Cmdlet Samples https://msdn.microsoft.com/en-us/library/ff602031(v=vs.85).aspx
+
+How to Invoke a Cmdlet from Within a Cmdlet https://msdn.microsoft.com/en-us/library/ms714876(v=vs.85).aspx
+
+PowerShell Managed Assemblies Reference https://msdn.microsoft.com/en-us/library/mt679515(v=vs.85).aspx
