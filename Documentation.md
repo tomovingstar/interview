@@ -108,3 +108,7 @@ Web Interface for Powershell Scripting https://social.technet.microsoft.com/Foru
 HTML/CSS Front-End, PowerShell Script Back-End? https://community.spiceworks.com/topic/1967451-html-css-front-end-powershell-script-back-end
 
 Automating with Jenkins and PowerShell on Windows - Part 1 https://hodgkins.io/automating-with-jenkins-and-powershell-on-windows-part-1
+
+Graphical front ends for PowerShell? Here's a couple for you https://www.theregister.co.uk/2013/07/15/powershell_third_party_guis/
+
+interference-security/empire-web https://github.com/interference-security/empire-web
