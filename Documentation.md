@@ -106,3 +106,5 @@ PowerShell GUI with HTML - Part 1 http://tiberriver256.github.io/powershell/gui/
 Web Interface for Powershell Scripting https://social.technet.microsoft.com/Forums/windowsserver/en-US/31581743-5364-4503-bb1b-4156b24dd7ca/web-interface-for-powershell-scripting?forum=winserverpowershell
 
 HTML/CSS Front-End, PowerShell Script Back-End? https://community.spiceworks.com/topic/1967451-html-css-front-end-powershell-script-back-end
+
+Automating with Jenkins and PowerShell on Windows - Part 1 https://hodgkins.io/automating-with-jenkins-and-powershell-on-windows-part-1
