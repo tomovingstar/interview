@@ -34,6 +34,15 @@ Database Normalization Basics http://www.dotnettricks.com/learn/sqlserver/databa
 
 Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema
 
+Simple HTTP api for Executing PowerShell Scripts https://blogs.msdn.microsoft.com/powershell/2014/09/29/simple-http-api-for-executing-powershell-scripts/
+
+[MS-PSRP]: PowerShell Remoting Protocol https://msdn.microsoft.com/en-us/library/dd357801.aspx
+
+PowerShell REST API Programming https://wilsonmar.github.io/powershell-rest-api/
+
+REST API PowerShell Scripts - Getting Started https://thycotic.force.com/support/s/article/ka0370000005RLbAAM/REST-API-PowerShell-Scripts-Getting-Started
+
+Interact with REST-Based Web APIs http://www.powershellcookbook.com/recipe/Vlhv/interact-with-rest-based-web-apis
 PowerShell WebAPI https://pswebapi.codeplex.com/
 Basic structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
 
