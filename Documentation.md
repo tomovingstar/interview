@@ -71,3 +71,7 @@ Execute PowerShell Script from C# MVC Web Application https://stackoverflow.com/
 Scripting Visual Studio with PowerShell – great for demos https://blogs.msdn.microsoft.com/stuartleeks/2014/03/19/scripting-visual-studio-with-powershell-great-for-demos/
 
 Automate Visual Studio Team Services with PowerShell http://matthewmanela.com/blog/automate-visual-studio-team-services-with-powershell/
+
+Building Your First UI Using PowerShell and WPF, Part 1 https://mcpmag.com/articles/2016/04/28/building-ui-using-powershell.aspx
+
+Minutes using Visual Studio – A New Hope https://foxdeploy.com/2015/04/10/part-i-creating-powershell-guis-in-minutes-using-visual-studio-a-new-hope/
