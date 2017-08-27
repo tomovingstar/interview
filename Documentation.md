@@ -34,6 +34,7 @@ Database Normalization Basics http://www.dotnettricks.com/learn/sqlserver/databa
 
 Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema
 
+PowerShell WebAPI https://pswebapi.codeplex.com/
 Basic structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
 
 MySQL: multiple tables or one table with many columns? https://stackoverflow.com/questions/9774715/mysql-multiple-tables-or-one-table-with-many-columns
