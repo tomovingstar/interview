@@ -100,3 +100,9 @@ JumpStart # 39– Build and publish a Visual Studio MVC Project using MSBuild an
 Running Windows PowerShell Scripts from MSBuild Project Files https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/running-windows-powershell-scripts-from-msbuild-project-files
 
 Automating CSS and JavaScript minification in ASP.NET MVC 5 with PowerShell https://dusted.codes/automating-css-and-javascript-minification-in-aspnet-mvc-5-with-powershell
+
+PowerShell GUI with HTML - Part 1 http://tiberriver256.github.io/powershell/gui/html/PowerShell-HTML-GUI-Pt1/
+
+Web Interface for Powershell Scripting https://social.technet.microsoft.com/Forums/windowsserver/en-US/31581743-5364-4503-bb1b-4156b24dd7ca/web-interface-for-powershell-scripting?forum=winserverpowershell
+
+HTML/CSS Front-End, PowerShell Script Back-End? https://community.spiceworks.com/topic/1967451-html-css-front-end-powershell-script-back-end
