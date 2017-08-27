@@ -34,6 +34,7 @@ Database Normalization Basics http://www.dotnettricks.com/learn/sqlserver/databa
 
 Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema
 
+
 Written in PowerShell, a HTTP API for Executing PowerShell Scripts https://www.infoq.com/news/2014/10/PowerShell-Over-HTTP
 
 API access to PowerShell Web Access? https://stackoverflow.com/questions/23002275/api-access-to-powershell-web-access
@@ -95,3 +96,5 @@ Building Your First UI Using PowerShell and WPF, Part 1 https://mcpmag.com/artic
 Minutes using Visual Studio – A New Hope https://foxdeploy.com/2015/04/10/part-i-creating-powershell-guis-in-minutes-using-visual-studio-a-new-hope/
 
 JumpStart # 39– Build and publish a Visual Studio MVC Project using MSBuild and PowerShell http://www.intstrings.com/ramivemula/articles/jumpstart-39-build-and-publish-a-visual-studio-mvc-project-using-msbuild-and-powershell/
+
+Running Windows PowerShell Scripts from MSBuild Project Files https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/running-windows-powershell-scripts-from-msbuild-project-files
