@@ -33,5 +33,8 @@ What is jQuery? https://jquery.com/
 
 jQuery Tutorial https://www.w3schools.com/jquery/
 
-How to change your IP address
-http://whatismyipaddress.com/change-ip
+AngularJS QuickStart https://angular.io/guide/quickstart
+
+AngularJS CheatSheet https://angular.io/guide/cheatsheet
+
+How to change your IP address http://whatismyipaddress.com/change-ip
