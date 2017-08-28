@@ -137,6 +137,26 @@ the Causes of Poor Performance in SQL Server, Part 1 https://www.red-gate.com/si
 
 the causes of poor performance in SQL Server, Part 2 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-2/3233Database 
 
-Normalization Basics http://www.dotnettricks.com/learn/sqlserver/database-normalization-basics3435Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema363738W
+Normalization Basics http://www.dotnettricks.com/learn/sqlserver/database-normalization-basics3435
+
+Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema363738W
+
+Written in PowerShell, a HTTP API for Executing PowerShell Scripts https://www.infoq.com/news/2014/10/PowerShell-Over-HTTP
+
+API access to PowerShell Web Access? https://stackoverflow.com/questions/23002275/api-access-to-powershell-web-accessExecute
+
+PowerShell Script from C# MVC Web Application https://stackoverflow.com/questions/34313963/execute-powershell-script-from-c-sharp-mvc-web-applicationRunning 
+
+PowerShell scripts inside my asp.net mvc web application. is this an insecure appraoch https://forums.asp.net/t/2062215.aspx?Running+PowerShell+scripts+inside+my+asp+net+mvc+web+application+is+this+an+insecure+appraoch
+
+Simple HTTP api for Executing PowerShell Scripts https://blogs.msdn.microsoft.com/powershell/2014/09/29/simple-http-api-for-executing-powershell-scripts/
+
+[MS-PSRP]: PowerShell Remoting Protocol https://msdn.microsoft.com/en-us/library/dd357801.aspxPowerShell
+
+REST API Programming https://wilsonmar.github.io/powershell-rest-api/REST API PowerShell Scripts - Getting Started https://thycotic.force.com/support/s/article/ka0370000005RLbAAM/REST-API-PowerShell-Scripts-Getting-StartedInteract with REST-Based Web APIs http://www.powershellcookbook.com/recipe/Vlhv/interact-with-rest-based-web-apis 
+
+PowerShell WebAPI https://pswebapi.codeplex.com/ Basic structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
+
+
 
 
