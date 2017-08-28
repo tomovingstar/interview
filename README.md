@@ -20,8 +20,8 @@ https://msdn.microsoft.com/en-us/library/bb398986.aspx
 
 ## SQL Server
 
-* SQL Query Order of Operations 
-https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
+* SQL Query Order of Operations https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
+* ROW_NUMBER (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql
 
 
 ## Other
