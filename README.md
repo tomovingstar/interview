@@ -24,6 +24,7 @@ https://msdn.microsoft.com/en-us/library/bb398986.aspx
 * ROW_NUMBER (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql
 * What are the downsides of using SqlServer Views? https://stackoverflow.com/questions/4087673/what-are-the-downsides-of-using-sqlserver-views
 * CREATE VIEW (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql
+* Temporary Tables: Local vs. Global http://sqlmag.com/t-sql/temporary-tables-local-vs-global
 
 ## Other
 
