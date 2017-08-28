@@ -30,4 +30,5 @@ https://msdn.microsoft.com/en-us/library/bb398986.aspx
 * jQuery Tutorial https://www.w3schools.com/jquery/
 * AngularJS QuickStart https://angular.io/guide/quickstart
 * AngularJS CheatSheet https://angular.io/guide/cheatsheet
+* AngularJS Folder Structure [closed] https://stackoverflow.com/questions/18542353/angularjs-folder-structure
 * How to change your IP address http://whatismyipaddress.com/change-ip
