@@ -23,7 +23,7 @@ https://msdn.microsoft.com/en-us/library/bb398986.aspx
 * SQL Query Order of Operations https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
 * ROW_NUMBER (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql
 * What are the downsides of using SqlServer Views? https://stackoverflow.com/questions/4087673/what-are-the-downsides-of-using-sqlserver-views
-
+* CREATE VIEW (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql
 
 ## Other
 
