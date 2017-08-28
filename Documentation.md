@@ -4,23 +4,23 @@
 
 ## ASP.NET
 
-.NET Documentation https://docs.microsoft.com/en-us/dotnet/index
+* .NET Documentation https://docs.microsoft.com/en-us/dotnet/index
 
-Learn About ASP.NET MVC https://www.asp.net/mvc
+* Learn About ASP.NET MVC https://www.asp.net/mvc
 
-Getting Started with ASP.NET MVC 5 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
+* Getting Started with ASP.NET MVC 5 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 
-Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio (1 of 10) https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
+* Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio (1 of 10) https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
 
-6 Tips for ASP.NET MVC Model Binding http://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
+* 6 Tips for ASP.NET MVC Model Binding http://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
 
-Learn About ASP.NET Web API https://www.asp.net/web-api
+* Learn About ASP.NET Web API https://www.asp.net/web-api
 
-The largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm
+* The largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm
 
-ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php
+* ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php
 
-Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09
+* Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09
 
 ## SQL Server
 
