@@ -125,6 +125,18 @@ How to Invoke a Cmdlet from Within a Cmdlet https://msdn.microsoft.com/en-us/lib
 
 PowerShell Managed Assemblies Reference https://msdn.microsoft.com/en-us/library/mt679515(v=vs.85).aspx
 
-earn About ASP.NET Web API https://www.asp.net/web-api1819The largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm2021ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php2223Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.092425SQL Server2627SQL Documentation https://docs.microsoft.com/en-us/sql/2829Finding the Causes of Poor Performance in SQL Server, Part 1 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-1/3031Finding the causes of poor performance in SQL Server, Part 2 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-2/3233Database Normalization Basics http://www.dotnettricks.com/learn/sqlserver/database-normalization-basics3435Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema363738W
+Learn About ASP.NET Web API https://www.asp.net/web-api1819The 
+
+largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm2021ASP.NET 
+
+MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php2223Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.092425SQL 
+
+Server2627SQL Documentation https://docs.microsoft.com/en-us/sql/2829Finding 
+
+the Causes of Poor Performance in SQL Server, Part 1 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-1/3031Finding 
+
+the causes of poor performance in SQL Server, Part 2 https://www.red-gate.com/simple-talk/sql/performance/finding-the-causes-of-poor-performance-in-sql-server,-part-2/3233Database 
+
+Normalization Basics http://www.dotnettricks.com/learn/sqlserver/database-normalization-basics3435Star Schema vs. Snowflake Schema http://www.vertabelo.com/blog/technical-articles/data-warehouse-modeling-star-schema-vs-snowflake-schema363738W
 
 
