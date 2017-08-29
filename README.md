@@ -3,6 +3,7 @@ Interview Questions and Answers
 
 ## C#
 
+* abstract (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 * Static Constructors (C# Programming Guide)
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors
 * Boxing and Unboxing (C# Programming Guide)
