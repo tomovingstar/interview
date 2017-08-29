@@ -94,3 +94,4 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Scripting languages and the ArcGIS REST API http://resources.arcgis.com/en/help/main/10.2/index.html#//0154000005w0000000
 * RamblingCookieMonster/PowerShell https://github.com/RamblingCookieMonster/PowerShell/blob/master/Invoke-Sqlcmd2.ps1
 * sqlcollaborative/Invoke-SqlCmd2 https://github.com/sqlcollaborative/Invoke-SqlCmd2
+* Scripting languages and the ArcGIS REST API http://server.arcgis.com/en/server/latest/administer/linux/scripting-languages-and-the-arcgis-rest-api.htm#ESRI_SECTION1_79D0327392F64A89A142234492EB9BC6
