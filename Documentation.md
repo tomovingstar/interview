@@ -81,4 +81,7 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * [MS-PSRP]: PowerShell Remoting Protocol https://msdn.microsoft.com/en-us/library/dd357801.aspx
 * PowerShell REST API Programming https://wilsonmar.github.io/powershell-rest-api/
 * REST API PowerShell Scripts - Getting Started https://thycotic.force.com/support/s/article/ka0370000005RLbAAM/REST-API-PowerShell-Scripts-Getting-Started
-* Interact with REST-Based Web APIs http://www.powershellcookbook.com/recipe/Vlhv/interact-with-rest-based-web-apisPowerShell WebAPI https://pswebapi.codeplex.com/Basic structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
+* Interact with REST-Based Web APIs http://www.powershellcookbook.com/recipe/Vlhv/interact-with-rest-based-web-apisPowerShell 
+* WebAPI https://pswebapi.codeplex.com/Basic 
+* structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
+* How do I call a SQL Server stored procedure from PowerShell? https://stackoverflow.com/questions/83410/how-do-i-call-a-sql-server-stored-procedure-from-powershell
