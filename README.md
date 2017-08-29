@@ -28,6 +28,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * What are the downsides of using SqlServer Views? https://stackoverflow.com/questions/4087673/what-are-the-downsides-of-using-sqlserver-views
 * CREATE VIEW (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql
 * Temporary Tables: Local vs. Global http://sqlmag.com/t-sql/temporary-tables-local-vs-global
+* CREATE PROCEDURE (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql
 
 ## Other
 
