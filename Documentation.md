@@ -89,3 +89,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Execute Sql Stored Procedure From Powershell With Parameters http://www.dbascript.com/execute-sql-stored-procedure-from-powershell-with-parameters
 * Bing Maps – Geocoding in PowerShell https://kevinpelgrims.wordpress.com/2011/08/18/bing-maps-geocoding-in-powershell/
 * Bing Maps – Geocoding and Imagery https://kevinpelgrims.wordpress.com/2011/08/16/bing-maps-geocoding-and-imagery/
+* Creating Powershell Cmdlet fot ArcGIS! http://blogsprasad.blogspot.com/2013/10/creating-powershell-cmdlet-fot-arcgis.html
+* ArcGIS Resources http://resources.arcgis.com/en/help/arcobjects-net/conceptualhelp/index.html#/How_to_access_maps_and_layers_via_the_MapDocument/0001000001n3000000/
