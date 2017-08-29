@@ -87,3 +87,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * How do I call a SQL Server stored procedure from PowerShell? https://stackoverflow.com/questions/83410/how-do-i-call-a-sql-server-stored-procedure-from-powershell
 * Execute SQL Stored Procedure From Powershell https://social.technet.microsoft.com/Forums/windows/en-US/8b9bcd83-11d5-498e-bdb8-c337b3ff08ed/execute-sql-stored-procedure-from-powershell?forum=winserverpowershell
 * Execute Sql Stored Procedure From Powershell With Parameters http://www.dbascript.com/execute-sql-stored-procedure-from-powershell-with-parameters
+* Bing Maps – Geocoding in PowerShell https://kevinpelgrims.wordpress.com/2011/08/18/bing-maps-geocoding-in-powershell/
+* Bing Maps – Geocoding and Imagery https://kevinpelgrims.wordpress.com/2011/08/16/bing-maps-geocoding-and-imagery/
