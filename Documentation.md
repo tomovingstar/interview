@@ -85,3 +85,4 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * WebAPI https://pswebapi.codeplex.com/Basic 
 * structure: associations http://www.tomjewett.com/dbdesign/dbdesign.php?page=association.php
 * How do I call a SQL Server stored procedure from PowerShell? https://stackoverflow.com/questions/83410/how-do-i-call-a-sql-server-stored-procedure-from-powershell
+* Execute SQL Stored Procedure From Powershell https://social.technet.microsoft.com/Forums/windows/en-US/8b9bcd83-11d5-498e-bdb8-c337b3ff08ed/execute-sql-stored-procedure-from-powershell?forum=winserverpowershell
