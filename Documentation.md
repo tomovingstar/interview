@@ -91,3 +91,4 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Bing Maps – Geocoding and Imagery https://kevinpelgrims.wordpress.com/2011/08/16/bing-maps-geocoding-and-imagery/
 * Creating Powershell Cmdlet fot ArcGIS! http://blogsprasad.blogspot.com/2013/10/creating-powershell-cmdlet-fot-arcgis.html
 * ArcGIS Resources http://resources.arcgis.com/en/help/arcobjects-net/conceptualhelp/index.html#/How_to_access_maps_and_layers_via_the_MapDocument/0001000001n3000000/
+* Scripting languages and the ArcGIS REST API http://resources.arcgis.com/en/help/main/10.2/index.html#//0154000005w0000000
