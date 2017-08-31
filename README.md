@@ -29,6 +29,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * CREATE VIEW (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-view-transact-sql
 * Temporary Tables: Local vs. Global http://sqlmag.com/t-sql/temporary-tables-local-vs-global
 * CREATE PROCEDURE (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql
+* SQL Constraints https://www.w3schools.com/sql/sql_constraints.asp
 
 ## Other
 
