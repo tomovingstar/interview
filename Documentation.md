@@ -25,6 +25,10 @@
 * How can an SQL query return data from multiple tables https://stackoverflow.com/questions/12475850/how-can-an-sql-query-return-data-from-multiple-tables
 * Online analytical processing https://en.wikipedia.org/wiki/Online_analytical_processing
 * OLTP vs. OLAP http://datawarehouse4u.info/OLTP-vs-OLAP.html
+* Responding to SQL Server Restore Errors Caused by Damaged Backups https://technet.microsoft.com/en-us/library/ms190952(v=sql.105).aspx
+* Error restoring database backup https://stackoverflow.com/questions/10741281/error-restoring-database-backup
+* Error when restoring SQL Server 2008 R2 backup on 2012 https://dba.stackexchange.com/questions/98162/error-when-restoring-sql-server-2008-r2-backup-on-2012
+* Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
 
 ## Visual Studio - related
 
