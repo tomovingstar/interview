@@ -8,6 +8,7 @@ Interview Questions and Answers
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors
 * Boxing and Unboxing (C# Programming Guide)
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing
+* C# Delegates, Actions, Funcs, Lambdas–Keeping it super simple https://blogs.msdn.microsoft.com/brunoterkaly/2012/03/02/c-delegates-actions-funcs-lambdaskeeping-it-super-simple/
 * Can abbstract class be static?
 ???
 
