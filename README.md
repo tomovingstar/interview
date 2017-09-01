@@ -21,7 +21,8 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * ASP.NET State Management Overview https://msdn.microsoft.com/en-us/library/75x4ha6s.aspx
 * State Management in ASP.NET MVC – ViewData, ViewBag and TempData in MVC http://dotnet-helpers.com/mvc/state-management-in-asp-net-mvc/
 * What are the differences between WCF and ASMX web services? https://stackoverflow.com/questions/2448472/what-are-the-differences-between-wcf-and-asmx-web-services
-
+* MVC Routing, IIS, SEO, and Custom Errors – Oh My! http://devproconnections.com/development/mvc-routing-iis-seo-and-custom-errors-oh-my
+* Filtering in ASP.NET MVC https://msdn.microsoft.com/en-us/library/gg416513(VS.98).aspx
 
 ## SQL Server
 
