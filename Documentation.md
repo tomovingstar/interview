@@ -30,6 +30,7 @@
 * Error when restoring SQL Server 2008 R2 backup on 2012 https://dba.stackexchange.com/questions/98162/error-when-restoring-sql-server-2008-r2-backup-on-2012
 * Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
 * Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
+* Sample- ASP.NET Core MVC Dynamic Dashboard Sample https://www.componentone.com/Studio/Pages/Samples/-aspnetcoremvcdynamicdashboardsample
 ## Visual Studio - related
 
 * Walkthrough: Creating and Running Unit Tests for Managed Code https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code
