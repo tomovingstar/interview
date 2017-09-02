@@ -29,8 +29,7 @@
 * Error restoring database backup https://stackoverflow.com/questions/10741281/error-restoring-database-backup
 * Error when restoring SQL Server 2008 R2 backup on 2012 https://dba.stackexchange.com/questions/98162/error-when-restoring-sql-server-2008-r2-backup-on-2012
 * Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
-* Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
-* Sample- ASP.NET Core MVC Dynamic Dashboard Sample https://www.componentone.com/Studio/Pages/Samples/-aspnetcoremvcdynamicdashboardsample
+
 ## Visual Studio - related
 
 * Walkthrough: Creating and Running Unit Tests for Managed Code https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code
@@ -104,3 +103,6 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Who said you can't go cross-platform with C#/XAML? http://www.cshtml5.com/
 * Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
 * PivotData ASP.NET Examples http://pivottable.nrecosite.com/Dashboard/Projects
+* Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
+* Interactive dashboard in ASP.NET [closed] https://stackoverflow.com/questions/21779556/interactive-dashboard-in-asp-net
+* Sample- ASP.NET Core MVC Dynamic Dashboard Sample https://www.componentone.com/Studio/Pages/Samples/-aspnetcoremvcdynamicdashboardsample
