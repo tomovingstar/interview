@@ -109,3 +109,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Download JDash http://www.jdash.net/download
 * dynamicdashboards.net http://www.dynamicdashboards.net/
 * 20+ Best Dashboard Frameworks https://cssauthor.com/dashboard-frameworks/
+* Periscope - A real time .Net Dashboard https://periscope.codeplex.com/
+* OPEN SOURCE & CROSS-PLATFORM TOOL FOR SIMPLIFIED MONITORING https://getwarden.net/
