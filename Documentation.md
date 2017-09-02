@@ -29,7 +29,7 @@
 * Error restoring database backup https://stackoverflow.com/questions/10741281/error-restoring-database-backup
 * Error when restoring SQL Server 2008 R2 backup on 2012 https://dba.stackexchange.com/questions/98162/error-when-restoring-sql-server-2008-r2-backup-on-2012
 * Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
-
+* Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
 ## Visual Studio - related
 
 * Walkthrough: Creating and Running Unit Tests for Managed Code https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code
@@ -101,3 +101,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Scripting languages and the ArcGIS REST API http://server.arcgis.com/en/server/latest/administer/linux/scripting-languages-and-the-arcgis-rest-api.htm#ESRI_SECTION1_79D0327392F64A89A142234492EB9BC6
 * Migrating Silverlight application to HTML 5 https://stackoverflow.com/questions/9094033/migrating-silverlight-application-to-html-5
 * Who said you can't go cross-platform with C#/XAML? http://www.cshtml5.com/
+* Dashboard Examples https://forums.asp.net/t/1487562.aspx?Dashboard+Examples
+* PivotData ASP.NET Examples http://pivottable.nrecosite.com/Dashboard/Projects
