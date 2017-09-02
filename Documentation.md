@@ -49,7 +49,7 @@
 * Execute PowerShell from a ASP.NET Web Application http://jeffmurr.com/blog/?p=142
 
 ## PowerShell- related
-
+* PowerShell Open Source Community Dashboard https://blogs.msdn.microsoft.com/powershell/2017/01/31/powershell-open-source-community-dashboard/
 * Execute PowerShell Script from C# MVC Web Application https://stackoverflow.com/questions/34313963/execute-powershell-script-from-c-sharp-mvc-web-application
 * Scripting Visual Studio with PowerShell – great for demos https://blogs.msdn.microsoft.com/stuartleeks/2014/03/19/scripting-visual-studio-with-powershell-great-for-demos/
 * Automate Visual Studio Team Services with PowerShell http://matthewmanela.com/blog/automate-visual-studio-team-services-with-powershell/
