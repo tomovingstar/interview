@@ -113,3 +113,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Periscope - A real time .Net Dashboard https://periscope.codeplex.com/
 * OPEN SOURCE & CROSS-PLATFORM TOOL FOR SIMPLIFIED MONITORING https://getwarden.net/
 * Simple Dashboard https://www.codeproject.com/Articles/616156/Simple-Dashboard
+* Where can I find free ASP.NET dashboard templates? https://www.quora.com/Where-can-I-find-free-ASP-NET-dashboard-templates
+* Home » Top 22 Free Responsive HTML5 Admin & Dashboard Templates 2017 https://colorlib.com/wp/free-html5-admin-dashboard-templates/
