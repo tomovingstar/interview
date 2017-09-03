@@ -115,3 +115,5 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Simple Dashboard https://www.codeproject.com/Articles/616156/Simple-Dashboard
 * Where can I find free ASP.NET dashboard templates? https://www.quora.com/Where-can-I-find-free-ASP-NET-dashboard-templates
 * Home » Top 22 Free Responsive HTML5 Admin & Dashboard Templates 2017 https://colorlib.com/wp/free-html5-admin-dashboard-templates/
+* 52+ Bootstrap Dashboard Themes & Templates https://www.template.net/web-templates/bootstrap/bootstrap-dashboard-template/
+* ASP MVC 5 with sb admin 2 bootstrap template https://marketplace.visualstudio.com/items?itemName=LuisErnestoVasquez.ASPMVC5withsbadmin2bootstraptemplate
