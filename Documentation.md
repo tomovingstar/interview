@@ -117,3 +117,9 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * Home » Top 22 Free Responsive HTML5 Admin & Dashboard Templates 2017 https://colorlib.com/wp/free-html5-admin-dashboard-templates/
 * 52+ Bootstrap Dashboard Themes & Templates https://www.template.net/web-templates/bootstrap/bootstrap-dashboard-template/
 * ASP MVC 5 with sb admin 2 bootstrap template https://marketplace.visualstudio.com/items?itemName=LuisErnestoVasquez.ASPMVC5withsbadmin2bootstraptemplate
+* Website Templates Free | Bootstrap templates Free | Bootstrap Themes Free http://binarytheme.com/category/bootstrap-templates-bootstrap-themes/asp-net-themes/admin-dashboards/
+* Admin / Dashboard Templates in ASP.Net MVC5 http://muthukumaran.me/admin-dashboard-templates-in-asp-net-mvc5/
+* Building beautiful, responsive sites with Bootstrap https://docs.microsoft.com/en-us/aspnet/core/client-side/bootstrap
+* ASP MVC 5 with sb admin 2 bootstrap template https://marketplace.visualstudio.com/items?itemName=LuisErnestoVasquez.ASPMVC5withsbadmin2bootstraptemplate
+* About the BI Dashboard Portal An ASP.NET, C#, Javascript, JQuery, HTML5/CSS3, SAP/SQL Server, SaaS Web Platform App https://www.behance.net/gallery/5229985/BI-Dashboard-Portal-ASPNET-JQuery-HTML5-SAPSQL
+* Open source rapid application development framework https://www.cuba-platform.com/rapid-application-development?utm_source=google&utm_medium=cpc&utm_campaign=search_skag_target&utm_term=rad%20framework&gclid=EAIaIQobChMIz-eYwv-H1gIVikoNCh2e7QF_EAAYASAAEgK1VfD_BwE
