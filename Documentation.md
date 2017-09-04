@@ -48,6 +48,7 @@
 * AZURE VM DASHBOARD http://www.parkmycloud.com/azure-vm-dashboard/
 * Overview of Microsoft Azure Data Lake Analytics https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
 * Azure Usage and Billing Insights (AUBI) Portal https://github.com/Microsoft/AzureUsageAndBillingPortal
+* Azure Search and Geospatial Data https://azure.microsoft.com/en-us/resources/videos/azure-search-and-geospatial-data/
 
 ## C# Related
 
