@@ -49,6 +49,9 @@
 * Overview of Microsoft Azure Data Lake Analytics https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
 * Azure Usage and Billing Insights (AUBI) Portal https://github.com/Microsoft/AzureUsageAndBillingPortal
 * Azure Search and Geospatial Data https://azure.microsoft.com/en-us/resources/videos/azure-search-and-geospatial-data/
+* Announcing real-time Geospatial Analytics in Azure Stream Analytics https://azure.microsoft.com/en-us/blog/announcing-real-time-geospatial-analytics-in-azure-stream-analytics/
+* Geospatial Functions in Azure Stream Analytics https://www.youtube.com/watch?v=_dHGV1Ja0UQ
+
 
 ## C# Related
 
