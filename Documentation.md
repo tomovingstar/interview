@@ -41,6 +41,12 @@
 * Domain-driven design https://en.wikipedia.org/wiki/Domain-driven_design
 * Unified Modeling Language https://en.wikipedia.org/wiki/Unified_Modeling_Language
 
+## Azure - related
+
+* Build Custom Dashboards in the Microsoft Azure Portal https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards
+* Creating custom dashboards in the Azure portal https://wikiazure.com/azure-portal/creating-custom-dashboards-in-the-azure-portal/
+* AZURE VM DASHBOARD http://www.parkmycloud.com/azure-vm-dashboard/
+
 ## C# Related
 
 * Executing PowerShell scripts from C# https://blogs.msdn.microsoft.com/kebab/2014/04/28/executing-powershell-scripts-from-c/
