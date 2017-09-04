@@ -33,6 +33,7 @@
 ## Visual Studio - related
 
 * Walkthrough: Creating and Running Unit Tests for Managed Code https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code
+* Extensions for the Visual Studio family of products https://marketplace.visualstudio.com/
 
 ## Software Design
 
