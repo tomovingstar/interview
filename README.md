@@ -9,8 +9,8 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-str
 * Boxing and Unboxing (C# Programming Guide)
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing
 * C# Delegates, Actions, Funcs, Lambdas–Keeping it super simple https://blogs.msdn.microsoft.com/brunoterkaly/2012/03/02/c-delegates-actions-funcs-lambdaskeeping-it-super-simple/
-* Can abbstract class be static?
-???
+* Can abbstract class be static? ???
+* Interpolated Strings (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interpolated-strings
 
 ## ASP.Net
 
