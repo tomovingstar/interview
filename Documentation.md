@@ -46,6 +46,7 @@
 * Build Custom Dashboards in the Microsoft Azure Portal https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards
 * Creating custom dashboards in the Azure portal https://wikiazure.com/azure-portal/creating-custom-dashboards-in-the-azure-portal/
 * AZURE VM DASHBOARD http://www.parkmycloud.com/azure-vm-dashboard/
+* Overview of Microsoft Azure Data Lake Analytics https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
 
 ## C# Related
 
