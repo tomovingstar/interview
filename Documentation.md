@@ -13,6 +13,8 @@
 * The largest Tutorials Library on the web https://www.tutorialspoint.com/index.htm
 * ASP.NET MVC 4 Cheat Sheet http://techbrij.com/notes/aspnet-mvc-4.php
 * Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09
+* Custom HTML User Control in ASP.Net MVC Razor View Engine http://www.c-sharpcorner.com/UploadFile/91c28d/custom-html-user-control-in-Asp-Net-mvc-razor-view-engine/
+* ASP.NET and Visual Studio for Web https://msdn.microsoft.com/en-us/library/dd566231.aspx
 
 ## SQL Server
 
