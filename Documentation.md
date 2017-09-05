@@ -15,6 +15,7 @@
 * Microsoft-Web/WebCampTrainingKit https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09
 * Custom HTML User Control in ASP.Net MVC Razor View Engine http://www.c-sharpcorner.com/UploadFile/91c28d/custom-html-user-control-in-Asp-Net-mvc-razor-view-engine/
 * ASP.NET and Visual Studio for Web https://msdn.microsoft.com/en-us/library/dd566231.aspx
+* Serialization in .NET https://docs.microsoft.com/en-us/dotnet/standard/serialization/
 
 ## SQL Server
 
