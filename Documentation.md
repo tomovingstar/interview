@@ -34,6 +34,7 @@
 * Error restoring database backup https://stackoverflow.com/questions/10741281/error-restoring-database-backup
 * Error when restoring SQL Server 2008 R2 backup on 2012 https://dba.stackexchange.com/questions/98162/error-when-restoring-sql-server-2008-r2-backup-on-2012
 * Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
+* Checklist: SQL Server Performance https://technet.microsoft.com/en-us/library/ms177500(v=sql.105).aspx
 
 ## Visual Studio - related
 
