@@ -27,6 +27,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * Partial Views https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial
 * Web Services https://msdn.microsoft.com/en-us/library/ms950421.aspx
 * ASP.NET  https://msdn.microsoft.com/en-us/library/aa286485.aspx
+* ASP.NET MVC - TempData - Good or bad practice https://stackoverflow.com/questions/386681/asp-net-mvc-tempdata-good-or-bad-practice
 
 ## SQL Server
 
