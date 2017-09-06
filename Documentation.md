@@ -18,6 +18,7 @@
 * Serialization in .NET https://docs.microsoft.com/en-us/dotnet/standard/serialization/
 * Checklist: Web Services Performance https://msdn.microsoft.com/en-us/library/ff647682.aspx
 * Checklist: SQL Server Performance https://msdn.microsoft.com/en-us/library/ff647681.aspx
+* .NET Design Patterns Tutorial - For Beginners & Professionals http://www.dotnettricks.com/learn/designpatterns
 
 ## SQL Server
 
