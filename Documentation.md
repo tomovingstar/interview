@@ -147,3 +147,7 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * About the BI Dashboard Portal An ASP.NET, C#, Javascript, JQuery, HTML5/CSS3, SAP/SQL Server, SaaS Web Platform App https://www.behance.net/gallery/5229985/BI-Dashboard-Portal-ASPNET-JQuery-HTML5-SAPSQL
 * Open source rapid application development framework https://www.cuba-platform.com/rapid-application-development?utm_source=google&utm_medium=cpc&utm_campaign=search_skag_target&utm_term=rad%20framework&gclid=EAIaIQobChMIz-eYwv-H1gIVikoNCh2e7QF_EAAYASAAEgK1VfD_BwE
 * 489 HTML Admin Website Templates https://themeforest.net/category/site-templates/admin-templates
+* Uninstall security update for Windows 7 or 8 (PowerShell) https://gallery.technet.microsoft.com/scriptcenter/Uninstall-security-update-76f2dcb7
+* PowerShell: Uninstall windows hotfixes(updates) http://techibee.com/powershell/powershell-uninstall-windows-hotfixesupdates/1084
+* Uninstalling Windows Hotfix via C# or PowerShell https://stackoverflow.com/questions/34225142/uninstalling-windows-hotfix-via-c-sharp-or-powershell
+* PowerShell: Removing Software Updates from Windows https://trevorsullivan.net/2011/05/31/powershell-removing-software-updates-from-windows/
