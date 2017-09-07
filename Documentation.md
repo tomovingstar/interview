@@ -151,3 +151,9 @@ API access to PowerShell Web Access? https://stackoverflow.com/questions/2300227
 * PowerShell: Uninstall windows hotfixes(updates) http://techibee.com/powershell/powershell-uninstall-windows-hotfixesupdates/1084
 * Uninstalling Windows Hotfix via C# or PowerShell https://stackoverflow.com/questions/34225142/uninstalling-windows-hotfix-via-c-sharp-or-powershell
 * PowerShell: Removing Software Updates from Windows https://trevorsullivan.net/2011/05/31/powershell-removing-software-updates-from-windows/
+* OCR with Powershell http://masterrex.com/?p=36
+* Clipboard image to OCR MODI.Document https://stackoverflow.com/questions/37357250/clipboard-image-to-ocr-modi-document
+* PowerShell + Tesseract: Going paperless with OCR https://www.reddit.com/r/PowerShell/comments/2racw2/powershell_tesseract_going_paperless_with_ocr/
+* How to use the Oxford OCR API with Powershell http://zbrad.github.io/tools/how-to-use-oxford-ocr-api-with-powershell/
+* PowerShell example to convert text on PDF to MP3 (OCR) http://programmingthisandthat.blogspot.com/2014/04/ocr-example-using-powershell.html
+* Microsoft Office Document Imaging – Office 2010 to Office 2016 http://www.myloginvault.co.uk/microsoft-office-document-imaging/
