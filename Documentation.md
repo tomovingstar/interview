@@ -66,6 +66,9 @@
 ## C# Related
 
 * Executing PowerShell scripts from C# https://blogs.msdn.microsoft.com/kebab/2014/04/28/executing-powershell-scripts-from-c/
+* Lambda Expressions (C# Programming Guide) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/lambda-expressions
+* Expression Trees (C#) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/index
+
 
 ## HTML- related
 
