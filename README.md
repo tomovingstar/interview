@@ -32,6 +32,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * ASP.NET MVC TempData & Session http://www.webdevelopmenthelp.net/2014/06/using-tempdata-asp-net-mvc.html
 * Controllers and Action Methods in ASP.NET MVC Applications https://msdn.microsoft.com/en-us/library/dd410269(v=vs.100).aspx
 * Execution flow in MVC https://stackoverflow.com/questions/1982517/execution-flow-in-mvc
+* A Developer's Guide to the WCF REST Starter Kit https://msdn.microsoft.com/en-us/library/ee391967.aspx
 
 ## SQL Server
 
