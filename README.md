@@ -33,6 +33,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * Controllers and Action Methods in ASP.NET MVC Applications https://msdn.microsoft.com/en-us/library/dd410269(v=vs.100).aspx
 * Execution flow in MVC https://stackoverflow.com/questions/1982517/execution-flow-in-mvc
 * A Developer's Guide to the WCF REST Starter Kit https://msdn.microsoft.com/en-us/library/ee391967.aspx
+* Attribute Routing in ASP.NET MVC 5 https://blogs.msdn.microsoft.com/webdev/2013/10/17/attribute-routing-in-asp-net-mvc-5/
 
 ## SQL Server
 
