@@ -37,6 +37,8 @@
 * Troubleshooting SQL Server 2014 backup/restore problems https://www.sswug.org/alexanderchigrik/sql-server/troubleshooting-sql-server-2014-backuprestore-problems/
 * Checklist: SQL Server Performance https://technet.microsoft.com/en-us/library/ms177500(v=sql.105).aspx
 * Troubleshooting Slow Servers http://sqlmag.com/database-performance-tuning/troubleshooting-slow-servers
+* SQL Server Technical Documentation https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation
+* Fun with SQL Server Profiler trace files and PowerShell https://www.red-gate.com/simple-talk/sysadmin/powershell/fun-with-sql-server-profiler-trace-files-and-powershell/
 
 ## Visual Studio - related
 
