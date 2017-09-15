@@ -74,7 +74,13 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * Attribute Routing in ASP.NET MVC 5 https://blogs.msdn.microsoft.com/webdev/2013/10/17/attribute-routing-in-asp-net-mvc-5/
 
 ## SQL Server
-
+* Top SQL Server Interview Questions And Answers https://intellipaat.com/interview-question/sql-server-interview-questions/
+* Top 50 SQL Server Interview Questions & Answers	 https://career.guru99.com/top-50-sql-server-questions-answers/
+* SQL Server :: Common Interview Questions and Answers https://www.indiabix.com/technical/sql-server-common-questions/
+* 31 Essential SQL Interview Questions* https://www.toptal.com/sql/interview-questions
+* SQL SERVER – Interview Questions and Answers  https://blog.sqlauthority.com/sql-server-interview-questions-and-answers/
+*  SQL SERVER – Interview Questions and Answers http://www.dotnetfunda.com/interviews/cat/8/sql-server
+*
 * SQL Query Order of Operations https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
 * ROW_NUMBER (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql
 * What are the downsides of using SqlServer Views? https://stackoverflow.com/questions/4087673/what-are-the-downsides-of-using-sqlserver-views
