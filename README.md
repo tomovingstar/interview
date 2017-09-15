@@ -2,6 +2,11 @@
 Interview Questions and Answers
 ## Front End
 
+* 28 Essential JavaScript Interview Questions* https://www.toptal.com/javascript/interview-questions
+* 21 Essential JavaScript Interview Questions https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+* Top 85 JavaScript Interview Questions & Answers	 https://career.guru99.com/top-85-javascript-interview-questions/
+* 10 Interview Questions
+Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 * Event delegation https://javascript.info/event-delegation
 * Stripes in CSS https://css-tricks.com/stripes-css/
 
