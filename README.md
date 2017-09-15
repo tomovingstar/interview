@@ -24,6 +24,12 @@ Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-in
 * C# Interview Questions And Answers http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/
 * 11 Important C# Interview Questions & OOP Concepts https://www.codementor.io/codementorteam/11-important-c-sharp-interview-questions-and-oop-concepts-hd5e7g2s6
 * Top 50 C# Interview Questions and Answers	 https://career.guru99.com/top-50-c-sharp-interview-questions-answers/
+* 8 Essential C# Interview Questions* https://www.toptal.com/c-sharp/interview-questions
+* 10 C# interview questions and answers https://www.upwork.com/i/interview-questions/c-sharp/
+* C# interview questions http://www.dotnetfunda.com/interviews/cat/6/csharp
+* C# Interview Questions https://www.javatpoint.com/c-sharp-interview-questions
+* C# interview questions https://www.testdome.com/d/c-sharp-interview-questions/18
+* Practice for technical interviews https://codefights.com/interview-practice?utm_source=google&utm_medium=cpc&utm_campaign=46976577580&utm_term=coding%20questions%20asked%20in%20interviews&utm_content=220609734451&gclid=EAIaIQobChMI4byA4ZOn1gIVCR6GCh1qmQhrEAMYASAAEgKOOvD_BwE
 * -----------------------------------------------------------------------------------
 * abstract (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 * Static Constructors (C# Programming Guide)
@@ -36,6 +42,10 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 
 ## ASP.Net
 
+* 13 Essential .NET Interview Questions* https://www.toptal.com/dot-net/interview-questions
+* Hire the Best Developer with These 15 .NET Interview Questions https://www.roberthalf.com/blog/how-to-interview-candidates/hire-the-best-developer-with-these-15-net-interview-questions
+* .NET Interview Questions and Answers https://www.indiabix.com/technical/dotnet/
+* -------------------------------
 * ASP.NET HTTP handler
 https://msdn.microsoft.com/en-us/library/bb398986.aspx
 * ASP.NET MVC Routing Overview (C#)
