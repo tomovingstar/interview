@@ -7,11 +7,24 @@ Interview Questions and Answers
 * Top 85 JavaScript Interview Questions & Answers	 https://career.guru99.com/top-85-javascript-interview-questions/
 * 10 Interview Questions
 Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+* Javascript Interview Questions https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+* nishant8BITS/123-Essential-JavaScript-Interview-Question https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question
+* 3 JavaScript questions to watch out for during coding interviews https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb
+* JavaScript Interview Questions https://www.javatpoint.com/javascript-interview-questions
+* JavaScript Interview Questions https://www.interviewcake.com/javascript-interview-questions
+* 15 JavaScript interview questions and answers https://www.upwork.com/i/interview-questions/javascript/
+* ----------------------------------
 * Event delegation https://javascript.info/event-delegation
 * Stripes in CSS https://css-tricks.com/stripes-css/
 
 ## C#
 
+* Top 100 C# Interview Questions and Answers http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers
+* C# - Interview Questions https://www.tutorialspoint.com/csharp/csharp_interview_questions.htm
+* C# Interview Questions And Answers http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/
+* 11 Important C# Interview Questions & OOP Concepts https://www.codementor.io/codementorteam/11-important-c-sharp-interview-questions-and-oop-concepts-hd5e7g2s6
+* Top 50 C# Interview Questions and Answers	 https://career.guru99.com/top-50-c-sharp-interview-questions-answers/
+* -----------------------------------------------------------------------------------
 * abstract (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 * Static Constructors (C# Programming Guide)
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors
