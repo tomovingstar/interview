@@ -1,5 +1,9 @@
 # interview
 Interview Questions and Answers
+## Front End
+
+* Event delegation https://javascript.info/event-delegation
+* Stripes in CSS https://css-tricks.com/stripes-css/
 
 ## C#
 
