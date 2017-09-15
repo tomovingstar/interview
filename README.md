@@ -45,6 +45,12 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * 13 Essential .NET Interview Questions* https://www.toptal.com/dot-net/interview-questions
 * Hire the Best Developer with These 15 .NET Interview Questions https://www.roberthalf.com/blog/how-to-interview-candidates/hire-the-best-developer-with-these-15-net-interview-questions
 * .NET Interview Questions and Answers https://www.indiabix.com/technical/dotnet/
+* Questions every good .NET developer should be able to answer? [closed] https://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer
+* .NET Interview Questions and Answers http://www.dotnetcurry.com/dotnetinterview/70/dotnet-interview-questions-answers-beginners
+* What Great .NET Developers Ought To Know (More .NET Interview Questions) https://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx
+* 50 ASP.Net Interview Questions & Answers	https://career.guru99.com/top-50-asp-net-interview-questions-answers/
+* Interview Questions in ASP.NET,C#.NET,SQL Server,.NET Framework http://www.aspdotnet-suresh.com/2010/05/interview-questions-in-aspnetcnetsql.html
+* Top 10 ASP.NET Interview Questions and Answers https://www.codeproject.com/Articles/698018/Top-ASP-NET-Interview-Questions-and-Answers
 * -------------------------------
 * ASP.NET HTTP handler
 https://msdn.microsoft.com/en-us/library/bb398986.aspx
