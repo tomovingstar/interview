@@ -2,6 +2,8 @@
 Interview Questions and Answers
 
 ## Tutorials
+* tutorialspoint http://www.tutorialspoint.com/
+* w3schools https://www.w3schools.com/
 
 ## Front End
 
