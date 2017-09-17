@@ -18,7 +18,7 @@ Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-in
 * JavaScript Interview Questions https://www.javatpoint.com/javascript-interview-questions
 * JavaScript Interview Questions https://www.interviewcake.com/javascript-interview-questions
 * 15 JavaScript interview questions and answers https://www.upwork.com/i/interview-questions/javascript/
-* ----------------------------------
+----------------------------------
 * Event delegation https://javascript.info/event-delegation
 * Stripes in CSS https://css-tricks.com/stripes-css/
 * Easy Two-Way Data Binding in JavaScript http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/
