@@ -36,7 +36,7 @@ Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-in
 * C# Interview Questions https://www.javatpoint.com/c-sharp-interview-questions
 * C# interview questions https://www.testdome.com/d/c-sharp-interview-questions/18
 * Practice for technical interviews https://codefights.com/interview-practice?utm_source=google&utm_medium=cpc&utm_campaign=46976577580&utm_term=coding%20questions%20asked%20in%20interviews&utm_content=220609734451&gclid=EAIaIQobChMI4byA4ZOn1gIVCR6GCh1qmQhrEAMYASAAEgKOOvD_BwE
-* -----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 * abstract (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 * Static Constructors (C# Programming Guide)
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-constructors
@@ -57,7 +57,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * 50 ASP.Net Interview Questions & Answers	https://career.guru99.com/top-50-asp-net-interview-questions-answers/
 * Interview Questions in ASP.NET,C#.NET,SQL Server,.NET Framework http://www.aspdotnet-suresh.com/2010/05/interview-questions-in-aspnetcnetsql.html
 * Top 10 ASP.NET Interview Questions and Answers https://www.codeproject.com/Articles/698018/Top-ASP-NET-Interview-Questions-and-Answers
-* -------------------------------
+-------------------------------
 * ASP.NET HTTP handler
 https://msdn.microsoft.com/en-us/library/bb398986.aspx
 * ASP.NET MVC Routing Overview (C#)
@@ -86,7 +86,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * 31 Essential SQL Interview Questions* https://www.toptal.com/sql/interview-questions
 * SQL SERVER – Interview Questions and Answers  https://blog.sqlauthority.com/sql-server-interview-questions-and-answers/
 *  SQL SERVER – Interview Questions and Answers http://www.dotnetfunda.com/interviews/cat/8/sql-server
-*
+---------------------------------
 * SQL Query Order of Operations https://www.bennadel.com/blog/70-sql-query-order-of-operations.htm
 * ROW_NUMBER (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql
 * What are the downsides of using SqlServer Views? https://stackoverflow.com/questions/4087673/what-are-the-downsides-of-using-sqlserver-views
