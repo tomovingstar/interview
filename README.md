@@ -99,6 +99,14 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 
 ## Other
 
+* IIS Interview Questions and Ansvers, Part 1 http://www.dotnetfunda.com/interviews/cat/122/iis
+* IIS Interview Questions and Ansvers, Part 2 http://www.dotnetfunda.com/interviews/cat/122/iis/20/2
+* IIS Interview Questions Answer https://rkarthikeyanpresents.blogspot.com/2013/03/what-is-role-ofiis-visual-studio-having.html
+* Internet Information Services (IIS) Interview Preparation Guide  http://www.globalguideline.com/interview_questions/Questions.php?sc=Internet_Information_Services_(IIS)_Interview_Questions
+* General IIS 7.0 Questions https://docs.microsoft.com/en-us/iis/web-hosting/frequently-asked-questions-faq/general-iis7-questions
+* IIS Administrator Interview Questions and Answers http://prakashvjadhav.blogspot.com/2014/01/iis-administrator-interview-questions.html
+* IIS ADMIN Interview questions https://www.wisdomjobs.com/e-university/iis-admin-interview-questions.html
+----------------------------------------------
 * What is jQuery? https://jquery.com/
 * jQuery Tutorial https://www.w3schools.com/jquery/
 * AngularJS QuickStart https://angular.io/guide/quickstart
