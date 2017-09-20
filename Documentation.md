@@ -2,6 +2,11 @@
 
 ## Helpful Links
 
+## Azure
+
+* Azure Stack https://azure.microsoft.com/en-us/overview/azure-stack/
+* What is Azure Stack? https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc
+
 ## ASP.NET
 
 * .NET Documentation https://docs.microsoft.com/en-us/dotnet/index
