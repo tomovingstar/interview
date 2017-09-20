@@ -8,6 +8,7 @@
 * Microsoft finally releases its secret weapon in the cloud wars with Amazon and Google http://www.businessinsider.com/microsoft-azure-stack-hybrid-cloud-released-2017-7
 * Azure Stack https://azure.microsoft.com/en-us/overview/azure-stack/
 * What is Azure Stack? https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc
+* Azure Stack documentation https://docs.microsoft.com/en-us/azure/azure-stack/
 
 ## ASP.NET
 
