@@ -9,6 +9,7 @@
 * Azure Stack https://azure.microsoft.com/en-us/overview/azure-stack/
 * What is Azure Stack? https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc
 * Azure Stack documentation https://docs.microsoft.com/en-us/azure/azure-stack/
+* Azure Stack PowerShell https://docs.microsoft.com/en-us/powershell/azure/azure-stack/overview?view=azurestackps-1.2.10&viewFallbackFrom=azurestackps-1.2.9
 
 ## ASP.NET
 
