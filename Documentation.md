@@ -4,6 +4,8 @@
 
 ## Azure
 
+* Azure Stack: Microsoft’s private-cloud platform and what IT pros need to know about it  https://www.networkworld.com/article/3208029/cloud-computing/azure-stack-microsoft-s-private-cloud-platform-and-what-it-pros-need-to-know-about-it.html
+* Microsoft finally releases its secret weapon in the cloud wars with Amazon and Google http://www.businessinsider.com/microsoft-azure-stack-hybrid-cloud-released-2017-7
 * Azure Stack https://azure.microsoft.com/en-us/overview/azure-stack/
 * What is Azure Stack? https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc
 
