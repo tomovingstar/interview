@@ -10,6 +10,8 @@
 * What is Azure Stack? https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-poc
 * Azure Stack documentation https://docs.microsoft.com/en-us/azure/azure-stack/
 * Azure Stack PowerShell https://docs.microsoft.com/en-us/powershell/azure/azure-stack/overview?view=azurestackps-1.2.10&viewFallbackFrom=azurestackps-1.2.9
+* Understand the structure and syntax of Azure Resource Manager templates https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates
+* Azure/azure-quickstart-templates https://github.com/Azure/azure-quickstart-templates
 
 ## ASP.NET
 
