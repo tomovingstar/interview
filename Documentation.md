@@ -2,8 +2,18 @@
 
 ## Helpful Links
 
-## Azure
+## Azure - related
 
+* Build Custom Dashboards in the Microsoft Azure Portal https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards
+* Creating custom dashboards in the Azure portal https://wikiazure.com/azure-portal/creating-custom-dashboards-in-the-azure-portal/
+* AZURE VM DASHBOARD http://www.parkmycloud.com/azure-vm-dashboard/
+* Overview of Microsoft Azure Data Lake Analytics https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
+* Azure Usage and Billing Insights (AUBI) Portal https://github.com/Microsoft/AzureUsageAndBillingPortal
+* Azure Search and Geospatial Data https://azure.microsoft.com/en-us/resources/videos/azure-search-and-geospatial-data/
+* Announcing real-time Geospatial Analytics in Azure Stream Analytics https://azure.microsoft.com/en-us/blog/announcing-real-time-geospatial-analytics-in-azure-stream-analytics/
+* Geospatial Functions in Azure Stream Analytics https://www.youtube.com/watch?v=_dHGV1Ja0UQ
+* Azure Marketplace https://azuremarketplace.microsoft.com/en-us
+* Media Services: Live Monitoring Dashboard https://azure.microsoft.com/en-us/resources/samples/media-services-dotnet-live-monitoring-dashboard/
 * Azure Stack: Microsoft’s private-cloud platform and what IT pros need to know about it  https://www.networkworld.com/article/3208029/cloud-computing/azure-stack-microsoft-s-private-cloud-platform-and-what-it-pros-need-to-know-about-it.html
 * Microsoft finally releases its secret weapon in the cloud wars with Amazon and Google http://www.businessinsider.com/microsoft-azure-stack-hybrid-cloud-released-2017-7
 * Azure Stack https://azure.microsoft.com/en-us/overview/azure-stack/
@@ -61,20 +71,6 @@
 * Cohesion & Coupling https://stackoverflow.com/questions/3085285/cohesion-coupling
 * Domain-driven design https://en.wikipedia.org/wiki/Domain-driven_design
 * Unified Modeling Language https://en.wikipedia.org/wiki/Unified_Modeling_Language
-
-## Azure - related
-
-* Build Custom Dashboards in the Microsoft Azure Portal https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards
-* Creating custom dashboards in the Azure portal https://wikiazure.com/azure-portal/creating-custom-dashboards-in-the-azure-portal/
-* AZURE VM DASHBOARD http://www.parkmycloud.com/azure-vm-dashboard/
-* Overview of Microsoft Azure Data Lake Analytics https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
-* Azure Usage and Billing Insights (AUBI) Portal https://github.com/Microsoft/AzureUsageAndBillingPortal
-* Azure Search and Geospatial Data https://azure.microsoft.com/en-us/resources/videos/azure-search-and-geospatial-data/
-* Announcing real-time Geospatial Analytics in Azure Stream Analytics https://azure.microsoft.com/en-us/blog/announcing-real-time-geospatial-analytics-in-azure-stream-analytics/
-* Geospatial Functions in Azure Stream Analytics https://www.youtube.com/watch?v=_dHGV1Ja0UQ
-* Azure Marketplace https://azuremarketplace.microsoft.com/en-us
-* Media Services: Live Monitoring Dashboard https://azure.microsoft.com/en-us/resources/samples/media-services-dotnet-live-monitoring-dashboard/
-
 
 ## C# Related
 
