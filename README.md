@@ -22,6 +22,11 @@ Every JavaScript Developer Should Know https://medium.com/javascript-scene/10-in
 * Event delegation https://javascript.info/event-delegation
 * Stripes in CSS https://css-tricks.com/stripes-css/
 * Easy Two-Way Data Binding in JavaScript http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/
+* What is jQuery? https://jquery.com/
+* jQuery Tutorial https://www.w3schools.com/jquery/
+* AngularJS QuickStart https://angular.io/guide/quickstart
+* AngularJS CheatSheet https://angular.io/guide/cheatsheet
+* AngularJS Folder Structure [closed] https://stackoverflow.com/questions/18542353/angularjs-folder-structure
 
 ## C#
 
@@ -107,9 +112,4 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * IIS Administrator Interview Questions and Answers http://prakashvjadhav.blogspot.com/2014/01/iis-administrator-interview-questions.html
 * IIS ADMIN Interview questions https://www.wisdomjobs.com/e-university/iis-admin-interview-questions.html
 ----------------------------------------------
-* What is jQuery? https://jquery.com/
-* jQuery Tutorial https://www.w3schools.com/jquery/
-* AngularJS QuickStart https://angular.io/guide/quickstart
-* AngularJS CheatSheet https://angular.io/guide/cheatsheet
-* AngularJS Folder Structure [closed] https://stackoverflow.com/questions/18542353/angularjs-folder-structure
 * How to change your IP address http://whatismyipaddress.com/change-ip
