@@ -5,6 +5,7 @@
 ## Front End - related
 
 * The Two Minute Guide to AngularJS for .NET Developers http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html
+* Getting started with AngularJS and ASP.NET MVC - Part One https://www.codeproject.com/Articles/806029/Getting-started-with-AngularJS-and-ASP-NET-MVC-Par
 
 ## Azure - related
 
