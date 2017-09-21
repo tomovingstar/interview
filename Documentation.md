@@ -91,6 +91,9 @@
 * Execute PowerShell from a ASP.NET Web Application http://jeffmurr.com/blog/?p=142
 
 ## PowerShell- related
+
+* XSLT with Powershell https://www.hanselman.com/blog/XSLTWithPowershell.aspx
+--------------------------------------------
 * PowerShell Open Source Community Dashboard https://blogs.msdn.microsoft.com/powershell/2017/01/31/powershell-open-source-community-dashboard/
 * Building a GitHub Dashboard using PowerShell, AzureStorageTable, AzureFunction, and PowerBI  https://blogs.msdn.microsoft.com/powershell/2017/02/09/building-a-github-dashboard-using-powershell-azurestoragetable-azurefunction-and-powerbi/
 * Execute PowerShell Script from C# MVC Web Application https://stackoverflow.com/questions/34313963/execute-powershell-script-from-c-sharp-mvc-web-application
