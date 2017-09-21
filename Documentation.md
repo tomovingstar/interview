@@ -96,6 +96,8 @@
 * Command-line XSLT processor with PowerShell https://devio.wordpress.com/2009/09/15/command-line-xslt-processor-with-powershell/
 * wschwarz/xslt-transform.ps1 https://gist.github.com/wschwarz/5073004
 * powershell xml xpath https://stackoverflow.com/questions/2164986/powershell-xml-xpath
+* PowerShell ASP.NET Controls https://poweraspnet.codeplex.com/
+* Execute PowerShell from a ASP.NET Web Application http://jeffmurr.com/blog/?p=142
 --------------------------------------------
 * PowerShell Open Source Community Dashboard https://blogs.msdn.microsoft.com/powershell/2017/01/31/powershell-open-source-community-dashboard/
 * Building a GitHub Dashboard using PowerShell, AzureStorageTable, AzureFunction, and PowerBI  https://blogs.msdn.microsoft.com/powershell/2017/02/09/building-a-github-dashboard-using-powershell-azurestoragetable-azurefunction-and-powerbi/
