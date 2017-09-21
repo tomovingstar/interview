@@ -98,6 +98,7 @@
 * powershell xml xpath https://stackoverflow.com/questions/2164986/powershell-xml-xpath
 * PowerShell ASP.NET Controls https://poweraspnet.codeplex.com/
 * Execute PowerShell from a ASP.NET Web Application http://jeffmurr.com/blog/?p=142
+* Calling PowerShell from C# / ASP.NET MVC https://www.reddit.com/r/PowerShell/comments/2y4rkr/calling_powershell_from_c_aspnet_mvc/
 --------------------------------------------
 * PowerShell Open Source Community Dashboard https://blogs.msdn.microsoft.com/powershell/2017/01/31/powershell-open-source-community-dashboard/
 * Building a GitHub Dashboard using PowerShell, AzureStorageTable, AzureFunction, and PowerBI  https://blogs.msdn.microsoft.com/powershell/2017/02/09/building-a-github-dashboard-using-powershell-azurestoragetable-azurefunction-and-powerbi/
