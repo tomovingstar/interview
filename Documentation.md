@@ -2,6 +2,10 @@
 
 ## Helpful Links
 
+## Front End - related
+
+* The Two Minute Guide to AngularJS for .NET Developers http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html
+
 ## Azure - related
 
 * Build Custom Dashboards in the Microsoft Azure Portal https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards
