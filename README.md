@@ -6,6 +6,9 @@ Interview Questions and Answers
 * w3schools https://www.w3schools.com/
 * XML Tutorial https://www.w3schools.com/xml/default.asp
 * .NET Design Patterns Tutorial - For Beginners & Professionals http://www.dotnettricks.com/learn/designpatterns
+* .NET Design Patterns http://www.dofactory.com/net/design-patterns
+* .NET Design Patterns in C# – A Fresh Look http://www.dotnetcurry.com/dotnet/1092/dotnet-design-patterns
+* Design Patterns in ASP.NET https://www.codeproject.com/articles/738043/design-patterns-in-asp-net
 
 ## Front End
 
