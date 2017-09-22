@@ -5,6 +5,7 @@ Interview Questions and Answers
 * tutorialspoint http://www.tutorialspoint.com/
 * w3schools https://www.w3schools.com/
 * XML Tutorial https://www.w3schools.com/xml/default.asp
+* .NET Design Patterns Tutorial - For Beginners & Professionals http://www.dotnettricks.com/learn/designpatterns
 
 ## Front End
 
