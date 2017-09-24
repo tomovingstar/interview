@@ -121,3 +121,4 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * IIS ADMIN Interview questions https://www.wisdomjobs.com/e-university/iis-admin-interview-questions.html
 ----------------------------------------------
 * How to change your IP address http://whatismyipaddress.com/change-ip
+* PUT vs POST – Comparing HTTP Methods https://www.keycdn.com/support/put-vs-post/
