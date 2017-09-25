@@ -2,6 +2,10 @@
 
 ## Helpful Links
 
+## Testing - related
+
+* Nishang - PowerShell for penetration testing and offensive security.  https://github.com/samratashok/nishang
+
 ## Front End - related
 
 * The Two Minute Guide to AngularJS for .NET Developers http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html
