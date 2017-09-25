@@ -109,6 +109,9 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * CREATE PROCEDURE (Transact-SQL) https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql
 * SQL Constraints https://www.w3schools.com/sql/sql_constraints.asp
 * SQL Server Profiler https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler
+----------------------
+* Fun with SQL Server Profiler trace files and PowerShell https://www.red-gate.com/simple-talk/sysadmin/powershell/fun-with-sql-server-profiler-trace-files-and-powershell/
+* SQL Server 2014 with PowerShell v5 Cookbook https://www.safaribooksonline.com/library/view/sql-server-2014/9781785283321/
 
 ## Other
 
