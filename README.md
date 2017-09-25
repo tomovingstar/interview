@@ -93,6 +93,18 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * Attribute Routing in ASP.NET MVC 5 https://blogs.msdn.microsoft.com/webdev/2013/10/17/attribute-routing-in-asp-net-mvc-5/
 * Configure Throttling Using IIS Manager https://msdn.microsoft.com/en-us/library/ee677221(v=azure.10).aspx
 
+## Web API
+
+* Top 10 ASP.NET Web API Interview Questions https://www.codeproject.com/Articles/769140/Top-ASP-NET-Web-API-Interview-Questions
+* ASP.Net Web API Interview Questions http://a4academics.com/interview-questions/52-dot-net-interview-questions/721-asp-net-web-api-interview
+* ASP.Net Web API Interview Questions http://www.dotnetfunda.com/interviews/cat/222/aspnet-web-api
+* 15 Rest API Interview Question & Answers	https://career.guru99.com/rest-api-interview/
+* Top 10 ASP.NET Web API Interview Questions http://www.webdevelopmenthelp.net/2014/05/asp-net-web-api-interview-questions.html
+* Web API Interview Questions and Answers http://www.techstrikers.com/Interview-QA/web.api-interview-questions-answers.php
+* ASP.Net Web API Interview Questions (Part 1) https://medium.com/@kailaskamble/asp-net-web-api-interview-questions-part-1-92ce96c74e8
+* Web API Interview Questions and Answers Part 1 http://www.dotnetqueries.com/Interviews/50092/Web-API-Interview-Questions-and-Answers-Part-1
+* Web API Interview questions - Azure Interview Questions http://dotnetanalyst.com/faqs/WebAPI
+
 ## SQL Server
 * Top SQL Server Interview Questions And Answers https://intellipaat.com/interview-question/sql-server-interview-questions/
 * Top 50 SQL Server Interview Questions & Answers	 https://career.guru99.com/top-50-sql-server-questions-answers/
