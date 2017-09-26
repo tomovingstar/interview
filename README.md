@@ -63,6 +63,11 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * Execution of multiple catch blocks [duplicate] https://stackoverflow.com/questions/12583487/execution-of-multiple-catch-blocks
 * executing multiple catch blocks https://stackoverflow.com/questions/4035477/executing-multiple-catch-blocks
 
+## Security
+
+* DESIGN PATTERNS & PRACTICES http://www.c-sharpcorner.com/technologies/design-patterns-and-practices
+* 4 design patterns to learn with C# .NET https://dotnetcodr.com/2014/09/12/4-design-patterns-to-learn-with-c-net/
+
 ## ASP.Net
 
 * 13 Essential .NET Interview Questions* https://www.toptal.com/dot-net/interview-questions
