@@ -58,6 +58,9 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * C# Delegates, Actions, Funcs, Lambdas–Keeping it super simple https://blogs.msdn.microsoft.com/brunoterkaly/2012/03/02/c-delegates-actions-funcs-lambdaskeeping-it-super-simple/
 * Can abbstract class be static? ???
 * Interpolated Strings (C# Reference) https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interpolated-strings
+* Generics (C# Programming Guide) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
+* Introduction to Generics (C# Programming Guide) https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/introduction-to-generics
+* Execution of multiple catch blocks [duplicate] https://stackoverflow.com/questions/12583487/execution-of-multiple-catch-blocks
 
 ## ASP.Net
 
