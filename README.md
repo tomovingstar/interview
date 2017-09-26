@@ -67,6 +67,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 
 * DESIGN PATTERNS & PRACTICES http://www.c-sharpcorner.com/technologies/design-patterns-and-practices
 * 4 design patterns to learn with C# .NET https://dotnetcodr.com/2014/09/12/4-design-patterns-to-learn-with-c-net/
+* patterns & practices ASP.NET 2.0 Security Guidance Index https://msdn.microsoft.com/en-us/library/ff648125.aspx
 
 ## ASP.Net
 
