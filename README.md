@@ -63,6 +63,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * Execution of multiple catch blocks [duplicate] https://stackoverflow.com/questions/12583487/execution-of-multiple-catch-blocks
 * executing multiple catch blocks https://stackoverflow.com/questions/4035477/executing-multiple-catch-blocks
 * Abstract Class versus Interface https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
+* When to use an interface instead of an abstract class and vice versa? https://stackoverflow.com/questions/479142/when-to-use-an-interface-instead-of-an-abstract-class-and-vice-versa
 * Dictionaries http://www.learncs.org/en/Dictionaries
 
 ## Security
@@ -136,6 +137,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 ----------------------
 * Fun with SQL Server Profiler trace files and PowerShell https://www.red-gate.com/simple-talk/sysadmin/powershell/fun-with-sql-server-profiler-trace-files-and-powershell/
 * SQL Server 2014 with PowerShell v5 Cookbook https://www.safaribooksonline.com/library/view/sql-server-2014/9781785283321/
+* What is the difference between Left, Right, Outer and Inner Joins? https://stackoverflow.com/questions/448023/what-is-the-difference-between-left-right-outer-and-inner-joins
 
 ## Other
 
