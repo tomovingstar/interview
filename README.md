@@ -65,6 +65,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * Abstract Class versus Interface https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
 * When to use an interface instead of an abstract class and vice versa? https://stackoverflow.com/questions/479142/when-to-use-an-interface-instead-of-an-abstract-class-and-vice-versa
 * Dictionaries http://www.learncs.org/en/Dictionaries
+* Difference between ref and out parameters in .NET https://stackoverflow.com/questions/135234/difference-between-ref-and-out-parameters-in-net
 
 ## Security
 
@@ -74,6 +75,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 
 ## ASP.Net
 
+* Questions every good .NET developer should be able to answer? [closed] https://stackoverflow.com/questions/365489/questions-every-good-net-developer-should-be-able-to-answer
 * 13 Essential .NET Interview Questions* https://www.toptal.com/dot-net/interview-questions
 * Hire the Best Developer with These 15 .NET Interview Questions https://www.roberthalf.com/blog/how-to-interview-candidates/hire-the-best-developer-with-these-15-net-interview-questions
 * .NET Interview Questions and Answers https://www.indiabix.com/technical/dotnet/
