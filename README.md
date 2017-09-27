@@ -141,6 +141,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * Fun with SQL Server Profiler trace files and PowerShell https://www.red-gate.com/simple-talk/sysadmin/powershell/fun-with-sql-server-profiler-trace-files-and-powershell/
 * SQL Server 2014 with PowerShell v5 Cookbook https://www.safaribooksonline.com/library/view/sql-server-2014/9781785283321/
 * What is the difference between Left, Right, Outer and Inner Joins? https://stackoverflow.com/questions/448023/what-is-the-difference-between-left-right-outer-and-inner-joins
+* SQL Server Profiler https://docs.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler
 
 ## Other
 
