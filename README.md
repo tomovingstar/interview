@@ -63,6 +63,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-an
 * Execution of multiple catch blocks [duplicate] https://stackoverflow.com/questions/12583487/execution-of-multiple-catch-blocks
 * executing multiple catch blocks https://stackoverflow.com/questions/4035477/executing-multiple-catch-blocks
 * Abstract Class versus Interface https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
+* Dictionaries http://www.learncs.org/en/Dictionaries
 
 ## Security
 
