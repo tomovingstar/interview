@@ -105,6 +105,7 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/controller
 * A Developer's Guide to the WCF REST Starter Kit https://msdn.microsoft.com/en-us/library/ee391967.aspx
 * Attribute Routing in ASP.NET MVC 5 https://blogs.msdn.microsoft.com/webdev/2013/10/17/attribute-routing-in-asp-net-mvc-5/
 * Configure Throttling Using IIS Manager https://msdn.microsoft.com/en-us/library/ee677221(v=azure.10).aspx
+* What is the difference between SessionState and ViewState? https://stackoverflow.com/questions/733482/what-is-the-difference-between-sessionstate-and-viewstate
 
 ## Web API
 
