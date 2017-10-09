@@ -33,6 +33,7 @@
 * Understand the structure and syntax of Azure Resource Manager templates https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates
 * Azure/azure-quickstart-templates https://github.com/Azure/azure-quickstart-templates
 
+
 ## ASP.NET
 
 * .NET Documentation https://docs.microsoft.com/en-us/dotnet/index
@@ -70,6 +71,7 @@
 * Troubleshooting Slow Servers http://sqlmag.com/database-performance-tuning/troubleshooting-slow-servers
 * SQL Server Technical Documentation https://docs.microsoft.com/en-us/sql/sql-server/sql-server-technical-documentation
 * Fun with SQL Server Profiler trace files and PowerShell https://www.red-gate.com/simple-talk/sysadmin/powershell/fun-with-sql-server-profiler-trace-files-and-powershell/
+* SQL Server Management Objects (SMO) Programming Guide https://docs.microsoft.com/en-us/sql/relational-databases/server-management-objects-smo/sql-server-management-objects-smo-programming-guide
 
 ## Visual Studio - related
 
