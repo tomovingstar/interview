@@ -14,7 +14,7 @@ Interview Questions and Answers
 * ASP.NET Web API Tutorial for Beginners http://csharp-video-tutorials.blogspot.com/2016/09/aspnet-web-api-tutorial-for-beginners.html
 
 ## Front End
-
+* Angular Interview Questions (Frequently Asked) https://hackr.io/blog/angular-interview-questions
 * 28 Essential JavaScript Interview Questions* https://www.toptal.com/javascript/interview-questions
 * 21 Essential JavaScript Interview Questions https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
 * Top 85 JavaScript Interview Questions & Answers	 https://career.guru99.com/top-85-javascript-interview-questions/
